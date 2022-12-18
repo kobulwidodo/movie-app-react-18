@@ -1,0 +1,35 @@
+.navbar {
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.bg-white {
+  background-color: white;
+  box-shadow: 0px -7px 24px rgba(0, 0, 0, 0.25);
+}
+
+.navbar-brand img {
+  margin-right: 10px;
+}
+
+.navbar-brand {
+  font-weight: 500;
+  font-size: 1.5rem !important;
+}
+
+.nav-link {
+  color: black !important;
+  font-size: 1rem;
+  margin-left: 20px;
+}
+
+.tes {
+  padding-left: none !important;
+}
+
+@media (max-width: 768px) {
+  .order-md-responsive {
+    order: 1;
+    margin-top: 30px !important;
+  }
+}
